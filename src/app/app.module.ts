@@ -25,3 +25,4 @@ import { StarComponent } from './shared/star.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+// este proyecto es un reto grande.
